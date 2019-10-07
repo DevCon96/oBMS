@@ -1,6 +1,9 @@
 # oBMS Project
 Open-Source Building Management System (Messaging)
 
+# Communication Channel Description
+For the communciation of the system, JSON payload formatting was used with the MQTT protocol to allow for messages to be sent between clients without instant responses. Buildings response slowly to instantaneous responses aren't required
+
 # Headstation section
 ## oBMSMessage Library
 This library includes all the relevant code to impletement the headstation side of the of the code indepentantly of the outstation code.
