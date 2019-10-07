@@ -16,3 +16,7 @@ The outstation is where most of the formatting occurs and these are the primary 
 
 ## oBMSMessageHandle 
 This will intercept any messages from the headstation and execute relevant instructions to respond to the relevant messages. This will enable the devices to control the TRV's relevant to the error calculated by the headstation
+
+# Copyright 
+This project is owned by The University of Sheffield 2019.
+Project section executed by Connor Jones
