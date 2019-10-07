@@ -6,6 +6,9 @@ Currently such systems are closed to a small group of companies and require the 
 
 All licenses used in the project allow for the client to choose whether they would like to continue having their system open source or commercialising their implementation.
 
+# Communication Channel Description
+For the communciation of the system, JSON payload formatting was used with the MQTT protocol to allow for messages to be sent between clients without instant responses. Buildings response slowly to instantaneous responses aren't required
+
 # Headstation section
 ## oBMSMessage Library
 This library includes all the relevant code to impletement the headstation side of the of the code indepentantly of the outstation code.
