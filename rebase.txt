@@ -1,9 +1,5 @@
 This file is to be used purely for the rebase example Udemy course
 
-rebase conflict follows...
 
-Here are some conflicting changes
-
-Heres another 
 
 
