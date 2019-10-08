@@ -1,5 +1,4 @@
-This has been added to follow the rebasing example 
-This has been added for the rebase example
+This is to be used for the stashing exmaple of the udemy course
 
 # oBMS Project
 Open-Source Building Management System (Messaging)
