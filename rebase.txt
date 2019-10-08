@@ -1,6 +1,9 @@
 This file is to be used purely for the rebase example Udemy course
 
-This file is added to create a rebase conflict...
+rebase conflict follows...
 
+Here are some conflicting changes
+
+Heres another 
 
 
