@@ -1,5 +1,4 @@
-This file is to be used purely for the rebase example Udemy course
-
+This file is to be used purely for the stash example
 
 
 
