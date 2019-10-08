@@ -1,4 +1,5 @@
 This has been added to follow the rebasing example 
+This is also for the rebase example
 
 # oBMS Project
 Open-Source Building Management System (Messaging)
