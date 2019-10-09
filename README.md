@@ -1,5 +1,7 @@
 This has been added foe the tagging example 
 
+Release version 1.1
+
 # oBMS Project
 Open-Source Building Management System (Messaging)
 This project was completed as part of a masters group project at The University of Sheffield and plays a role in a larger research topic affiliated with ARUP. The overall aim of the project was to design, build and test a system which would have the capability of performing basic HVAC controls within a larger building concept. 
