@@ -1,6 +1,8 @@
 This has been added foe the tagging example 
 
-Release version 1.1
+Release version 1.2
+
+Work since release 1.2
 
 # oBMS Project
 Open-Source Building Management System (Messaging)
