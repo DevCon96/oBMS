@@ -120,23 +120,6 @@ char *oBMSMesMes(char *mes_string){
     the return of the function is the serialized
     JSON formatted string
 */
-
-
-/*
-//  Format the message into a JSON string
-char *oBMSMesformat(char *type, char *mes, int  value) {
-    static char *mes_output = NULL;
-    JSON_Value *root_value = json_value_init_object();
-    JSON_Object *root_object = json_value_get_object(root_value);
-    json_object_set_string(root_object, "Type", type);
-    json_object_set_string(root_object, "Message", mes);
-    json_object_set_number(root_object, "Value", value);
-    mes_output = json_serialize_to_string_pretty(root_value);
-    return((char*) mes_output);
-}
-*/
-
-
 //  Deserialise the JSON string into a structure
 // Return the pointer to the structure.
 void oBMSMesDeformat(char* message, oBMSMessage* ret_mes) {
@@ -151,4 +134,3 @@ void oBMSMesDeformat(char* message, oBMSMessage* ret_mes) {
     ret_mes->val = oBMSMesVal(message);
 
 }
-
